@@ -19,6 +19,10 @@ const eslintConfig = [
       "build/**",
       "next-env.d.ts",
     ],
+    // rules: {
+		// 	semi: "error",
+		// 	"prefer-const": "error",
+		// },
   },
 ];
 
